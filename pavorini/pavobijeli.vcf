@@ -1,0 +1,23 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Bijelić;Pavo;;;
+FN:Pavo Bijelić
+ORG:Pavorini 
+ADR;TYPE=WORK:Sutlanska 4,
+
+
+ 10370 Dugo Selo
+TITLE:
+TEL;TYPE=CELL:+385981615457
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:+385981615457
+EMAIL;TYPE=WORK:
+URL;TYPE=Digital Business Card:https://blindit.github.io/pavorini
+URL:
+URL;TYPE=WhatsApp:http://wa.me/385981615457
+URL;TYPE=Location:https://maps.app.goo.gl/jUbKZnzyJuPZpSR99
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100292668
+END:VCARD
